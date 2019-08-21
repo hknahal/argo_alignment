@@ -1,0 +1,2 @@
+type	program	submitter_id	submitter_sample_id	sequencing_center	platform	platform_model	library_strategy	sequencing_date	read_group_count	specimen_type	submitter_donor_id
+sequencing_experiment	OV-AU	TEST-EXP-1	AOCS-148-1-4	QCMG	ILLUMINA		WGS		4	Primary tumour - solid tissue	AOCS-148

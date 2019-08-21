@@ -1,0 +1,213 @@
+type	program	submitter_id	submitter_sample_id	sequencing_center	platform	platform_model	library_strategy	sequencing_date	read_group_count	specimen_type	submitter_donor_id
+sequencing_experiment	PACA-CA	TEST-EXP-1	PCSI_0024_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0024
+sequencing_experiment	PACA-CA	TEST-EXP-2	PCSI_0101_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0101
+sequencing_experiment	PACA-CA	TEST-EXP-3	PCSI_0009_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0009
+sequencing_experiment	PACA-CA	TEST-EXP-4	PCSI_0101_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0101
+sequencing_experiment	PACA-CA	TEST-EXP-5	PCSI_0018_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0018
+sequencing_experiment	PACA-CA	TEST-EXP-6	PCSI_0139_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0139
+sequencing_experiment	PACA-CA	TEST-EXP-7	PCSI_0021_Ep_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0021
+sequencing_experiment	PACA-CA	TEST-EXP-8	PCSI_0009_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0009
+sequencing_experiment	PACA-CA	TEST-EXP-9	PCSI_0127_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0127
+sequencing_experiment	PACA-CA	TEST-EXP-10	PCSI_0020_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0020
+sequencing_experiment	PACA-CA	TEST-EXP-11	PCSI_0093_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0093
+sequencing_experiment	PACA-CA	TEST-EXP-12	PCSI_0072_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0072
+sequencing_experiment	PACA-CA	TEST-EXP-13	PCSI_0007_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-14	PCSI_0006_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-15	PCSI_0022_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-16	PCSI_0072_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0072
+sequencing_experiment	PACA-CA	TEST-EXP-17	PCSI_0093_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0093
+sequencing_experiment	PACA-CA	TEST-EXP-18	PCSI_0124_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0124
+sequencing_experiment	PACA-CA	TEST-EXP-19	PCSI_0079_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0079
+sequencing_experiment	PACA-CA	TEST-EXP-20	PCSI_0062_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0062
+sequencing_experiment	PACA-CA	TEST-EXP-21	PCSI_0037_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0037
+sequencing_experiment	PACA-CA	TEST-EXP-22	PCSI_0022_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-23	PCSI_0022_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-24	PCSI_0073_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0073
+sequencing_experiment	PACA-CA	TEST-EXP-25	PCSI_0099_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0099
+sequencing_experiment	PACA-CA	TEST-EXP-26	PCSI_0080_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0080
+sequencing_experiment	PACA-CA	TEST-EXP-27	PCSI_0075_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0075
+sequencing_experiment	PACA-CA	TEST-EXP-28	PCSI_0005_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-29	PCSI_0018_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0018
+sequencing_experiment	PACA-CA	TEST-EXP-30	PCSI_0006_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-31	PCSI_0023_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0023
+sequencing_experiment	PACA-CA	TEST-EXP-32	PCSI_0001_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-33	PCSI_0002_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-34	PCSI_0093_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0093
+sequencing_experiment	PACA-CA	TEST-EXP-35	PCSI_0007_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-36	PCSI_0010_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0010
+sequencing_experiment	PACA-CA	TEST-EXP-37	PCSI_0005_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-38	PCSI_0021_Ep_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0021
+sequencing_experiment	PACA-CA	TEST-EXP-39	PCSI_0006_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-40	PCSI_0120_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0120
+sequencing_experiment	PACA-CA	TEST-EXP-41	PCSI_0112_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0112
+sequencing_experiment	PACA-CA	TEST-EXP-42	PCSI_0076_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0076
+sequencing_experiment	PACA-CA	TEST-EXP-43	PCSI_0078_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0078
+sequencing_experiment	PACA-CA	TEST-EXP-44	PCSI_0112_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0112
+sequencing_experiment	PACA-CA	TEST-EXP-45	PCSI_0084_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0084
+sequencing_experiment	PACA-CA	TEST-EXP-46	PCSI_0006_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-47	PCSI_0007_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-48	MPCC_0037_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0086
+sequencing_experiment	PACA-CA	TEST-EXP-49	PCSI_0022_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-50	MPCC_0039_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0019
+sequencing_experiment	PACA-CA	TEST-EXP-51	PCSI_0001_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-52	PCSI_0069_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0069
+sequencing_experiment	PACA-CA	TEST-EXP-53	PCSI_0108_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0108
+sequencing_experiment	PACA-CA	TEST-EXP-54	PCSI_0058_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0058
+sequencing_experiment	PACA-CA	TEST-EXP-55	PCSI_0114_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0114
+sequencing_experiment	PACA-CA	TEST-EXP-56	PCSI_0102_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0102
+sequencing_experiment	PACA-CA	TEST-EXP-57	PCSI_0022_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-58	PCSI_0006_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-59	PCSI_0037_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0037
+sequencing_experiment	PACA-CA	TEST-EXP-60	PCSI_0002_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-61	PCSI_0018_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0018
+sequencing_experiment	PACA-CA	TEST-EXP-62	PCSI_0069_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0069
+sequencing_experiment	PACA-CA	TEST-EXP-63	PCSI_0002_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-64	PCSI_0050_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0050
+sequencing_experiment	PACA-CA	TEST-EXP-65	PCSI_0066_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0066
+sequencing_experiment	PACA-CA	TEST-EXP-66	PCSI_0019_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0019
+sequencing_experiment	PACA-CA	TEST-EXP-67	PCSI_0057_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0057
+sequencing_experiment	PACA-CA	TEST-EXP-68	PCSI_0076_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0076
+sequencing_experiment	PACA-CA	TEST-EXP-69	PCSI_0057_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0057
+sequencing_experiment	PACA-CA	TEST-EXP-70	PCSI_0005_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-71	PCSI_0018_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0018
+sequencing_experiment	PACA-CA	TEST-EXP-72	PCSI_0083_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0083
+sequencing_experiment	PACA-CA	TEST-EXP-73	PCSI_0128_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0128
+sequencing_experiment	PACA-CA	TEST-EXP-74	PCSI_0112_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0112
+sequencing_experiment	PACA-CA	TEST-EXP-75	PCSI_0052_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0052
+sequencing_experiment	PACA-CA	TEST-EXP-76	PCSI_0104_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0104
+sequencing_experiment	PACA-CA	TEST-EXP-77	PCSI_0109_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0109
+sequencing_experiment	PACA-CA	TEST-EXP-78	PCSI_0085_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0085
+sequencing_experiment	PACA-CA	TEST-EXP-79	PCSI_0024_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0024
+sequencing_experiment	PACA-CA	TEST-EXP-80	PCSI_0002_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-81	PCSI_0181_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0181
+sequencing_experiment	PACA-CA	TEST-EXP-82	PCSI_0007_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-83	PCSI_0001_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-84	PCSI_0009_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0009
+sequencing_experiment	PACA-CA	TEST-EXP-85	PCSI_0108_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0108
+sequencing_experiment	PACA-CA	TEST-EXP-86	PCSI_0098_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0098
+sequencing_experiment	PACA-CA	TEST-EXP-87	PCSI_0077_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0077
+sequencing_experiment	PACA-CA	TEST-EXP-88	PCSI_0100_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0100
+sequencing_experiment	PACA-CA	TEST-EXP-89	PCSI_0090_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0090
+sequencing_experiment	PACA-CA	TEST-EXP-90	PCSI_0010_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0010
+sequencing_experiment	PACA-CA	TEST-EXP-91	PCSI_0081_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0081
+sequencing_experiment	PACA-CA	TEST-EXP-92	PCSI_0005_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-93	PCSI_0060_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0060
+sequencing_experiment	PACA-CA	TEST-EXP-94	PCSI_0007_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-95	PCSI_0086_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0086
+sequencing_experiment	PACA-CA	TEST-EXP-96	PCSI_0009_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0009
+sequencing_experiment	PACA-CA	TEST-EXP-97	PCSI_0001_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-98	PCSI_0125_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0125
+sequencing_experiment	PACA-CA	TEST-EXP-99	PCSI_0125_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0125
+sequencing_experiment	PACA-CA	TEST-EXP-100	PCSI_0018_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0018
+sequencing_experiment	PACA-CA	TEST-EXP-101	PCSI_0117_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0117
+sequencing_experiment	PACA-CA	TEST-EXP-102	PCSI_0076_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0076
+sequencing_experiment	PACA-CA	TEST-EXP-103	PCSI_0006_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-104	MPCC_0032_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0046
+sequencing_experiment	PACA-CA	TEST-EXP-105	PCSI_0082_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0082
+sequencing_experiment	PACA-CA	TEST-EXP-106	PCSI_0125_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0125
+sequencing_experiment	PACA-CA	TEST-EXP-107	PCSI_0009_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0009
+sequencing_experiment	PACA-CA	TEST-EXP-108	PCSI_0001_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-109	PCSI_0115_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0115
+sequencing_experiment	PACA-CA	TEST-EXP-110	PCSI_0104_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0104
+sequencing_experiment	PACA-CA	TEST-EXP-111	PCSI_0056_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0056
+sequencing_experiment	PACA-CA	TEST-EXP-112	PCSI_0114_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0114
+sequencing_experiment	PACA-CA	TEST-EXP-113	PCSI_0078_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0078
+sequencing_experiment	PACA-CA	TEST-EXP-114	PCSI_0038_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0038
+sequencing_experiment	PACA-CA	TEST-EXP-115	PCSI_0006_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-116	PCSI_0179_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0179
+sequencing_experiment	PACA-CA	TEST-EXP-117	PCSI_0060_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0060
+sequencing_experiment	PACA-CA	TEST-EXP-118	PCSI_0021_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0021
+sequencing_experiment	PACA-CA	TEST-EXP-119	PCSI_0022_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-120	PCSI_0005_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-121	PCSI_0062_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0062
+sequencing_experiment	PACA-CA	TEST-EXP-122	PCSI_0191_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0191
+sequencing_experiment	PACA-CA	TEST-EXP-123	PCSI_0018_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0018
+sequencing_experiment	PACA-CA	TEST-EXP-124	PCSI_0018_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0018
+sequencing_experiment	PACA-CA	TEST-EXP-125	PCSI_0050_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0050
+sequencing_experiment	PACA-CA	TEST-EXP-126	PCSI_0001_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-127	PCSI_0056_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0056
+sequencing_experiment	PACA-CA	TEST-EXP-128	PCSI_0121_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0121
+sequencing_experiment	PACA-CA	TEST-EXP-129	PCSI_0208_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0208
+sequencing_experiment	PACA-CA	TEST-EXP-130	PCSI_0047_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0047
+sequencing_experiment	PACA-CA	TEST-EXP-131	PCSI_0007_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-132	PCSI_0085_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0085
+sequencing_experiment	PACA-CA	TEST-EXP-133	PCSI_0083_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0083
+sequencing_experiment	PACA-CA	TEST-EXP-134	PCSI_0019_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0019
+sequencing_experiment	PACA-CA	TEST-EXP-135	PCSI_0115_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0115
+sequencing_experiment	PACA-CA	TEST-EXP-136	PCSI_0109_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0109
+sequencing_experiment	PACA-CA	TEST-EXP-137	PCSI_0023_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0023
+sequencing_experiment	PACA-CA	TEST-EXP-138	PCSI_0002_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-139	PCSI_0111_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0111
+sequencing_experiment	PACA-CA	TEST-EXP-140	PCSI_0022_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-141	PCSI_0069_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0069
+sequencing_experiment	PACA-CA	TEST-EXP-142	PCSI_0022_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-143	PCSI_0005_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-144	PCSI_0192_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0192
+sequencing_experiment	PACA-CA	TEST-EXP-145	PCSI_0022_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-146	PCSI_0060_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0060
+sequencing_experiment	PACA-CA	TEST-EXP-147	PCSI_0116_Sp_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0116
+sequencing_experiment	PACA-CA	TEST-EXP-148	PCSI_0010_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0010
+sequencing_experiment	PACA-CA	TEST-EXP-149	PCSI_0023_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0023
+sequencing_experiment	PACA-CA	TEST-EXP-150	PCSI_0072_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0072
+sequencing_experiment	PACA-CA	TEST-EXP-151	PCSI_0002_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-152	PCSI_0007_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-153	PCSI_0006_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-154	PCSI_0125_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0125
+sequencing_experiment	PACA-CA	TEST-EXP-155	MPCC_0032_Pa_C		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0046
+sequencing_experiment	PACA-CA	TEST-EXP-156	PCSI_0021_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0021
+sequencing_experiment	PACA-CA	TEST-EXP-157	PCSI_0084_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0084
+sequencing_experiment	PACA-CA	TEST-EXP-158	PCSI_0020_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0020
+sequencing_experiment	PACA-CA	TEST-EXP-159	PCSI_0127_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0127
+sequencing_experiment	PACA-CA	TEST-EXP-160	PCSI_0001_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-161	PCSI_0056_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0056
+sequencing_experiment	PACA-CA	TEST-EXP-162	PCSI_0049_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0049
+sequencing_experiment	PACA-CA	TEST-EXP-163	PCSI_0057_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0057
+sequencing_experiment	PACA-CA	TEST-EXP-164	PCSI_0193_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0193
+sequencing_experiment	PACA-CA	TEST-EXP-165	PCSI_0079_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0079
+sequencing_experiment	PACA-CA	TEST-EXP-166	PCSI_0009_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0009
+sequencing_experiment	PACA-CA	TEST-EXP-167	PCSI_0114_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0114
+sequencing_experiment	PACA-CA	TEST-EXP-168	PCSI_0072_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0072
+sequencing_experiment	PACA-CA	TEST-EXP-169	PCSI_0002_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-170	PCSI_0022_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-171	PCSI_0002_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-172	PCSI_0009_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0009
+sequencing_experiment	PACA-CA	TEST-EXP-173	PCSI_0138_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0138
+sequencing_experiment	PACA-CA	TEST-EXP-174	PCSI_0090_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0090
+sequencing_experiment	PACA-CA	TEST-EXP-175	PCSI_0052_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0052
+sequencing_experiment	PACA-CA	TEST-EXP-176	PCSI_0019_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0019
+sequencing_experiment	PACA-CA	TEST-EXP-177	PCSI_0038_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0038
+sequencing_experiment	PACA-CA	TEST-EXP-178	PCSI_0001_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-179	PCSI_0007_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-180	PCSI_0049_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0049
+sequencing_experiment	PACA-CA	TEST-EXP-181	PCSI_0103_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0103
+sequencing_experiment	PACA-CA	TEST-EXP-182	PCSI_0005_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-183	PCSI_0044_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0044
+sequencing_experiment	PACA-CA	TEST-EXP-184	PCSI_0007_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-185	PCSI_0005_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-186	PCSI_0021_Ep_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0021
+sequencing_experiment	PACA-CA	TEST-EXP-187	PCSI_0019_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0019
+sequencing_experiment	PACA-CA	TEST-EXP-188	PCSI_0073_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0073
+sequencing_experiment	PACA-CA	TEST-EXP-189	PCSI_0108_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0108
+sequencing_experiment	PACA-CA	TEST-EXP-190	PCSI_0083_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0083
+sequencing_experiment	PACA-CA	TEST-EXP-191	PCSI_0005_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0005
+sequencing_experiment	PACA-CA	TEST-EXP-192	PCSI_0080_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0080
+sequencing_experiment	PACA-CA	TEST-EXP-193	PCSI_0098_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0098
+sequencing_experiment	PACA-CA	TEST-EXP-194	PCSI_0056_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0056
+sequencing_experiment	PACA-CA	TEST-EXP-195	PCSI_0001_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-196	PCSI_0060_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0060
+sequencing_experiment	PACA-CA	TEST-EXP-197	PCSI_0081_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0081
+sequencing_experiment	PACA-CA	TEST-EXP-198	PCSI_0181_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0181
+sequencing_experiment	PACA-CA	TEST-EXP-199	PCSI_0001_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0001
+sequencing_experiment	PACA-CA	TEST-EXP-200	PCSI_0072_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0072
+sequencing_experiment	PACA-CA	TEST-EXP-201	PCSI_0099_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0099
+sequencing_experiment	PACA-CA	TEST-EXP-202	PCSI_0007_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-203	PCSI_0007_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0007
+sequencing_experiment	PACA-CA	TEST-EXP-204	PCSI_0006_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0006
+sequencing_experiment	PACA-CA	TEST-EXP-205	PCSI_0002_Pa_X		ILLUMINA		WXS		1	Xenograft - derived from primary tumour	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-206	PCSI_0037_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0037
+sequencing_experiment	PACA-CA	TEST-EXP-207	PCSI_0022_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0022
+sequencing_experiment	PACA-CA	TEST-EXP-208	PCSI_0002_Pa_P		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0002
+sequencing_experiment	PACA-CA	TEST-EXP-209	PCSI_0052_Pa_X		ILLUMINA		WXS		1	Primary tumour - solid tissue	PCSI_0052
+sequencing_experiment	PACA-CA	TEST-EXP-210	PCSI_0052_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0052
+sequencing_experiment	PACA-CA	TEST-EXP-211	PCSI_0077_Ly_R		ILLUMINA		WXS		1	Normal - blood derived	PCSI_0077
+sequencing_experiment	PACA-CA	TEST-EXP-212	PCSI_0057_St_R		ILLUMINA		WXS		1	Normal - solid tissue	PCSI_0057
